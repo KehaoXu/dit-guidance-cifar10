@@ -1,0 +1,1 @@
+"""Reusable components for pixel-space diffusion training and sampling."""

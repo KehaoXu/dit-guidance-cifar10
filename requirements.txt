@@ -1,0 +1,9 @@
+torch>=2.1
+torchvision>=0.16
+torchmetrics[image]>=1.0
+numpy>=1.24
+tqdm>=4.65
+matplotlib>=3.7
+wandb>=0.16
+pandas>=2.0
+Pillow>=9.0
